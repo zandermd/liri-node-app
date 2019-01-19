@@ -1,3 +1,14 @@
-require("dotenv").config();
+const dotEnv = require("dotenv").config();
+var keys = require("./keys.js");
+var spotify = new spotify(keys.spotify);
 
-const keys = require("./keys.js");
+var userInput = process.argv[2];
+
+var request = require("request");
+var nodeArgs = process.argv;
+
+var movie = function () {
+    var movieName = "";
+
+    
+}
