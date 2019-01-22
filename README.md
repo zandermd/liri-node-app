@@ -5,15 +5,15 @@ LIRI will search Spoifty for songs, Bands in Town for concerts, and OMBD for mov
 
 # Requirements
 
--Make a Node.js app that depends on user input from the command line.
--Integrate Bands In Town, Spotify, and OMDb APIs via the appropriate NPM modules.
--Use API calls and parse through returned JSON objects, outputting them in a specified format.
--Read commands and queries from file.
+* Make a Node.js app that depends on user input from the command line.
+* Integrate Bands In Town, Spotify, and OMDb APIs via the appropriate NPM modules.
+* Use API calls and parse through returned JSON objects, outputting them in a specified format.
+* Read commands and queries from file.
 
 # Technologies Used
 
--Node.js
--JavaScript
--Bands In Town API 
--Spotify API
--OMDb API
+* Node.js
+* JavaScript
+* Bands In Town API 
+* Spotify API
+* OMDb API
